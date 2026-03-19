@@ -1,0 +1,19 @@
+{
+    "mode": "STANDARD",
+    "alert_threshold": 30,
+    "shoulder_angle_flag": 25,
+    "time_before_flagging": 2,
+    "motion_sensitivity": "MEDIUM",
+    "ml_confidence_threshold": 0.65,
+    "score_decay_rate_per_min": 1.0,
+    "combined_multiplier": 1.5,
+    "wrist_velocity_threshold": 15.0,
+    "zone_motion_threshold": 0.15,
+    "exam_name": "",
+    "institution_name": "",
+    "invigilator_name": "",
+    "subject": "",
+    "exam_date": "",
+    "exam_start_time": "",
+    "exam_end_time": ""
+}
