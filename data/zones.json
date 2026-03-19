@@ -1,0 +1,20 @@
+{
+    "zones": [
+        {
+            "bench_id": "B1",
+            "roll": "2024CSE001",
+            "name": "Student Name",
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0,
+            "buffer": 20,
+            "active": true,
+            "modified": false,
+            "added_at": ""
+        }
+    ],
+    "total_zones": 0,
+    "last_updated": "",
+    "exam_id": ""
+}
