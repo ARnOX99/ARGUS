@@ -1,0 +1,23 @@
+# ARGUS — Python Dependencies
+# Install all with: pip install -r requirements.txt
+
+# Computer Vision
+opencv-python==4.8.0.76
+mediapipe==0.10.7
+
+# Machine Learning
+scikit-learn==1.3.2
+pandas==2.0.3
+numpy==1.24.4
+joblib==1.3.2
+
+# Web Framework
+flask==3.0.0
+flask-socketio==5.3.6
+
+# Hardware Communication
+pyserial==3.5
+
+# Report Generation
+reportlab==4.0.7
+matplotlib==3.7.3
